@@ -298,13 +298,13 @@ nav .link-styled {
   align-items: center;
   animation-name: fadeOut;
   animation-duration: 0.3s;
-  animation-delay: 6s;
+  animation-delay: 7s;
   animation-fill-mode: forwards;
   pointer-events: none;
 }
 @media screen and (max-width: 990px){
   .loader{
-    animation-delay: 3s;
+    animation-delay: 6s;
   }
 }
 
